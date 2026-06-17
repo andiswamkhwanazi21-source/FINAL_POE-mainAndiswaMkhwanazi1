@@ -1,69 +1,148 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Services / Products | WEDE5020 POE Website</title>
-
+  <!-- Metadata about the page -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="TODO: Write a short page description for search engines.">
-  <meta name="keywords" content="TODO, replace, with, relevant, keywords">
-  <meta name="author" content="Student Name">
+  <meta name="description" content="Explore Lusanda Rentals rooms and services including affordable accommodation, shared facilities, and pricing.">
+  <title>Rooms & Services - Lusanda Rentals</title>
+  <!-- Link to external CSS -->
   <link rel="stylesheet" href="css/style.css">
-  <script defer src="js/main.js"></script>
 </head>
 <body>
-  <header class="site-header">
-    <div class="container header-layout">
-      <div>
-        <p class="site-tag">WEDE5020 POE Template</p>
-        <strong>[Organisation Name]</strong>
-      </div>
-
-<nav aria-label="Primary">
-  <ul class="nav-list">
-    <li><a href="index.html">Home</a></li>
-    <li><a href="about.html">About</a></li>
-    <li><a href="services.html">Services / Products</a></li>
-    <li><a href="enquiry.html">Enquiry</a></li>
-    <li><a href="contact.html">Contact</a></li>
-  </ul>
-</nav>
-
-    </div>
+  <!-- Header with page title and navigation -->
+  <header>
+    <h1>Rooms & Services</h1>
+    <nav>
+      <ul>
+        <!-- Navigation links (fixed as per feedback) -->
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="rooms.html">Rooms & Services</a></li>
+        <li><a href="booking.html">Enquiry/Booking</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
   </header>
 
-    <main class="container">
-      <h1>Services / Products</h1>
-      <p>Use this page to describe the organisation's services or products.</p>
+  <!-- Main content area -->
+  <main>
+    <!-- Room Details -->
+    <section class="card">
+      <h2>Room Details</h2>
+      <p>At Lusanda Rentals, we offer rooms tailored to different needs and lifestyles:</p>
+      <ul>
+        <li><strong>Single Rooms (En-suite):</strong> Perfect for those who value privacy and independence. Each single room comes with its own private bathroom, a comfortable bed, desk, and cupboard — ideal for students or professionals.</li>
+        <li><strong>Sharing for 2:</strong> A great option for friends or colleagues who want to live together while keeping costs affordable. Each tenant enjoys their own bed and storage space, with shared access to facilities.</li>
+        <li><strong>Sharing for 3:</strong> The most budget-friendly choice, designed for those who enjoy a lively, communal environment. Popular among students and young workers.</li>
+      </ul>
+      <p>All rooms are furnished with essentials and designed to make you feel at home from the moment you arrive.</p>
+    </section>
 
-      <section class="card-grid">
-        <article class="card searchable-item">
-          <h2>Service / Product 1</h2>
-          <p>Add a description, price range, and value to users.</p>
-        </article>
-        <article class="card searchable-item">
-          <h2>Service / Product 2</h2>
-          <p>Add a description, price range, and value to users.</p>
-        </article>
-        <article class="card searchable-item">
-          <h2>Service / Product 3</h2>
-          <p>Add a description, price range, and value to users.</p>
-        </article>
-      </section>
+    <!-- Facilities section -->
+    <section class="card">
+      <h2>Facilities</h2>
+      <p>Tenants enjoy shared facilities designed for convenience and safety:</p>
+      <ul>
+        <li>Reliable free Wi-Fi</li>
+        <li>Shared kitchen equipped with stove, fridge, and microwave</li>
+        <li>Laundry facilities with washing machines</li>
+        <li>Secure environment with locked gates and safe surroundings</li>
+      </ul>
+    </section>
 
-      <section>
-        <h2>Search Services / Products</h2>
-        <label for="search">Search</label>
-        <input id="search" type="search" placeholder="Search services or products">
-        <p class="small-text">Part 3 idea: add JavaScript to filter the cards above.</p>
-      </section>
-    </main>
+    <!-- Pricing section -->
+    <section class="card">
+      <h2>Pricing</h2>
+      <p>We offer flexible options to suit different budgets and living preferences:</p>
+      <ul>
+        <li><strong>Single Room (En-suite):</strong> R3,000 – R3,300 depending on size</li>
+        <li><strong>Sharing (2 people):</strong> R2,600 per person</li>
+        <li><strong>Sharing (3 people):</strong> R2,200 per person</li>
+      </ul>
+    </section>
+    
+    <!-- Room Types Showcase -->
+    <section class="card">
+      <h2>Room Types</h2>
+      <p>Choose the room that best suits your needs. Whether you’re a student, a professional, or a small family, Lusanda Rentals has options for you.</p>
 
-  <footer class="site-footer">
-    <div class="container">
-      <p>&copy; 2026 [Organisation Name]. All rights reserved.</p>
-      <p>Student Number: [Add student number]</p>
-    </div>
+      <!-- Single Room -->
+      <div class="gallery">
+        <img src="images/singlebed.jpg" alt="Single room example">
+        <img src="images/ensuite.jpg" alt="Single bathroom">
+      </div>
+      <p><strong>Single Room (En-suite)</strong><br>
+      Private bathroom with shower, toilet, and sink.<br>
+      Furnished with bed, desk, cupboard, and chair.<br>
+      Ideal for professionals or students who value privacy.<br>
+      Wi-Fi included, plus access to shared kitchen and laundry.<br>
+      Typical rental range: <strong>R3 000 – R3 300 per month</strong>.</p>
+
+      <!-- Double Room -->
+      <div class="gallery">
+        <img src="images/double.jpg" alt="Double room example">
+        <img src="images/doubleBath.jpg" alt="Double bathroom">
+      </div>
+      <p><strong>Double Room (Sharing for Two)</strong><br>
+      Two comfortable single beds, each with storage and workspace.<br>
+      Shared kitchenette and bathroom.<br>
+      Reliable Wi-Fi and secure gated environment.<br>
+      Perfect for friends or colleagues.<br>
+      Typical rental: <strong>R2 600 per person</strong>.</p>
+
+      <!-- Triple Room -->
+      <div class="gallery">
+        <img src="images/triple.jpg" alt="Triple room example">
+      </div>
+      <p><strong>Triple Room (Sharing for Three)</strong><br>
+      Spacious layout with three beds, desks, and cupboards.<br>
+      Shared kitchenette and laundry area.<br>
+      Wi-Fi access throughout the property.<br>
+      Great for students or young workers.<br>
+      Typical rental: <strong>R2 200 per person</strong>.</p>
+    </section>
+
+    <!-- Local attractions section -->
+    <section class="card">
+      <h2>Discover Bloemfontein</h2>
+      <p>Our rentals are located near some of Bloemfontein’s most iconic attractions:</p>
+      <ul>
+        <li><strong>Naval Hill:</strong> Famous landmark overlooking the city.</li>
+        <li><strong>Loch Logan Waterfront Mall:</strong> Shopping, dining, and entertainment.</li>
+        <li><strong>Stadium and Parks:</strong> Sports facilities and green spaces.</li>
+        <li><strong>Museum:</strong> Explore Bloemfontein’s history.</li>
+      </ul>
+      <div class="gallery">
+        <img src="images/hill.jpg" alt="View from Naval Hill">
+        <img src="images/waterfront.jpg" alt="Waterfront Mall">
+        <img src="images/bloemStadium.jpg" alt="Bloem Stadium">
+        <img src="images/BloemMuseum.jpg" alt="Bloemfontein Historical Museum">
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="card">
+      <h2>What Our Tenants Say</h2>
+      <blockquote>“Affordable and close to my university — Lusanda Rentals made my student life so much easier.”</blockquote>
+      <blockquote>“I love the community feel here. It’s safe, clean, and welcoming.”</blockquote>
+      <blockquote>“Perfect for my short-term work stay in Bloemfontein. Highly recommended!”</blockquote>
+    </section>
+
+    <!-- Call-to-action -->
+    <section class="cta">
+      <h2>Ready to Book?</h2>
+      <p>Browse our available rooms and make an enquiry today. Lusanda Rentals is here to provide you with a safe and welcoming space.</p>
+      <p><a href="booking.html" class="cta-button">Book a Room Now</a></p>
+    </section>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <p>&copy; 2026 Lusanda Rentals</p>
   </footer>
+
+  <!-- Link to external JavaScript -->
+  <script src="js/script.js"></script>
 </body>
 </html>
