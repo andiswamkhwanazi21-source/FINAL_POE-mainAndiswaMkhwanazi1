@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
-Sitemap: https://example.com/sitemap.xml
+
+# Block private or unfinished sections if any
+Disallow: /private/
+
+# Point crawlers to your sitemap
+Sitemap: https://lusandarentals.com/sitemap.xml
