@@ -144,7 +144,62 @@ Finally, I relied on technical resources to ensure the site was functional, acce
   - Back-to-top button.  
 - *SEO work:* Titles, meta descriptions, keywords, alt text for images, robots.txt, sitemap.xml.  
 - *Form validation:* Custom JavaScript checks for names, emails, phone numbers, dates, and message length.  
-- *Deployment:* To GitHub Pages (link to be added).  
+- *Deployment:* To GitHub Pages (https://andiswamkhwanazi21-source.github.io/FINAL_POE-mainAndiswaMkhwanazi1/) 
+
+   ## Placeholder Removal / Content Progress
+
+### Index Page (Home)
+I removed all template filler text and replaced it with real Lusanda Rentals content:
+- Logo: *Lusanda Rentals*
+- Navigation menu: Home | About | Services | Enquiry | Contact
+- Hero headline: *“Welcome to Lusanda Rentals”*
+- Subtext: *Affordable, stylish, and comfortable rentals for every occasion*
+- Call‑to‑action button: *Book Your Stay Today*
+- Highlights section: *Modern Rooms*, *Easy Booking*, *Friendly Service*
+- Footer: Contact info, social links, sitemap
+
+---
+
+### About Page
+- Mission: *To provide affordable, stylish rentals that make every guest feel at home.*
+- Vision: *To be the trusted choice for community‑centered accommodation.*
+- Values: *Comfort, Affordability, Community.*
+- Story: *Founded by Andiswa Mkhwanazi, Lusanda Rentals began with a vision to simplify accommodation and create welcoming spaces for families, students, and travelers.*
+- Commitment: *Quality service, transparency, and building lasting relationships with guests.*
+- Future Plans: *Expanding to new locations and offering more diverse rental options.*
+- Founder’s Note: *“At Lusanda Rentals, we believe every guest deserves comfort and care. Thank you for being part of our journey.” – Andiswa Mkhwanazi*
+
+---
+
+### Services Page (formerly Rooms)
+- **Single Room:** Cozy and simple — ideal for solo guests. Features: Wi‑Fi, TV, private bathroom.
+- **Double Room:** Spacious and stylish — perfect for couples or friends. Features: King bed, balcony view, modern décor.
+- **Triple Room:** Comfortable and practical — great for families or groups. Features: Kitchenette, lounge area, child‑friendly amenities.
+
+---
+
+### Enquiry / Booking Page
+- Headline: *“Book Your Stay in Minutes”*
+- Form fields: Name, Email, Phone, Room Type, Check‑in/Check‑out dates, Special Requests
+- Call‑to‑action button: *Confirm Booking*
+- Updated navigation links to ensure correct routing between pages.
+
+---
+
+### Contact Page
+- Headline: *“We’d Love to Hear From You”*
+- Contact info: Phone, Email, Address (Pretoria, Gauteng, South Africa)
+- Contact form fields: Name, Email, Message
+- Call‑to‑action button: *Send Message*
+- Updated navigation links for **Home**, **About**, **Services**, and **Enquiry** pages.
+
+---
+
+## 🔧 Structural & Deployment Changes (18 June 2026)
+- Moved all website files from the **root directory** to a new **`docs/` folder** 
+  - Updated all internal navigation links accordingly.
+- Modified **robots.txt** to include the sitemap reference:
+ 
 
 
 ## Changelog
