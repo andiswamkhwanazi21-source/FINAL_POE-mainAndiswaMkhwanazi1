@@ -4,8 +4,8 @@
 - *Module:* Web Development (Introduction) - WEDE5020  
 - *Lecturer:* [Thabo Mofokeng]  
 - *Selected Organisation:* Lusanda Rentals  
-- *Repository URL:* []()  
-- *Deployed Website URL:* []  
+- *Repository URL:* [Lusanda Rentala Repository](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1.git)  
+- *Deployed Website URL:* [Lusanda Rentals Live Site]()  
 
 
 ## Project Overview
