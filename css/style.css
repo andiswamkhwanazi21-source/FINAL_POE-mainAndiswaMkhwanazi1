@@ -233,3 +233,24 @@ button:focus, .cta-button:focus, a[href*="booking.html"]:focus {
   outline: 2px solid #ffcc00; /* gold outline */
   outline-offset: 3px;
 }
+.site-header {
+  background-image: url("images/logo.jpeg");
+  background-size: cover;       /* stretches logo to fill */
+  background-position: center;  /* centers the logo */
+  height: 200px;                /* adjust height as needed */
+  display: flex;
+  align-items: flex-end;        /* keeps nav at bottom of banner */
+  padding: 20px;
+}
+
+.site-header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.site-header nav a {
+  color: white;                 /* make links visible over logo */
+  font-weight: bold;
+  text-decoration: none;
+}
