@@ -157,7 +157,18 @@ text
 - Implemented rotating testimonials and accordion for values.  
 - Added back-to-top button and dynamic greetings.  
 - Enhanced SEO with meta descriptions, keywords, alt text, robots.txt, and sitemap.xml.  
-- Finalised README with full project documentation.  
+- Finalised README with full project documentation.
+
+*18 June Updates
+Updated navigation links on the Contact page to ensure correct routing.
+
+Updated navigation links for Enquiry and About pages.
+
+Modified the Index page navigation: changed the link from rooms.html to services.html.
+
+Edited robots.txt to include the sitemap reference.
+
+Added new URLs to sitemap.xml for improved SEO coverage.
 
 
 ## Screenshots
