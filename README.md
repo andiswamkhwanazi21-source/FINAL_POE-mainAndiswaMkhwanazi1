@@ -122,7 +122,7 @@ Finally, I relied on technical resources to ensure the site was functional, acce
 | HTML structure complete | April 2026 | Done |
 | CSS styling complete | May 2026 | Done |
 | JavaScript complete | June 2026 | Done |
-| Deployment complete | June 2026 | Pending |
+| Deployment complete | June 2026 | Done |
 
 
 ## Part 2 Details
