@@ -170,6 +170,9 @@ text
 ### Mobile View
 ![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/ee039327c19301ada375c3699902e3b347525a1c/Assets/Mobile%20About.png)
 
+### Wireframe 
+![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/e5f21fffa20ba7a4bfc6edb4e283697343dbda13/images/wireframe.jpg)
+
 
 ## References
 destepti.ro (2017) Naval Hill Bloemfontein. Available at: https://www.destepti.ro/naval-hill-bloemfontein (destepti.ro in Bing) [Accessed 23 May 2026]. 
