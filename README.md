@@ -162,7 +162,7 @@ text
 
 ## Screenshots
 ### Desktop View
-![Desktop Home](Assets/Desktop-Home.png)
+![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/f4d579a528bbc20292c6a9657f0f2361a1599ffe/Assets/Desktop%20Home.png)
 
 ### Tablet View
 ![Tablet Home](Assets/Tablet-Home.png)
