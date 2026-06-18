@@ -1,0 +1,38 @@
+name: Autograding
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || true
+
+      - name: Run structure test
+        run: python tests/check_structure.py
+
+      - name: Run semantic HTML test
+        run: python tests/check_semantics.py
+
+      - name: Run navigation test
+        run: python tests/check_navigation.py
+
+      - name: Run forms test
+        run: python tests/check_forms.py
+
+      - name: Run SEO test
+        run: python tests/check_seo.py
+
+      - name: Run README test
+        run: python tests/check_readme.py
+
+      - name: Run placeholder/content test
+        run: python tests/check_placeholders.py
