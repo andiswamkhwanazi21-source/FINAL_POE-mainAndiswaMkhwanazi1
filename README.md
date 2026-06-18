@@ -165,10 +165,10 @@ text
 ![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/f4d579a528bbc20292c6a9657f0f2361a1599ffe/Assets/Desktop%20Home.png)
 
 ### Tablet View
-![Tablet Home](Assets/Tablet-Home.png)
+![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/ab109b44045d98d887689278263d7fe8cc907ec0/Assets/Tablet%20Home.png)
 
 ### Mobile View
-![Mobile About](Assets/Mobile-About.png)
+![image alt]()
 
 
 ## References
