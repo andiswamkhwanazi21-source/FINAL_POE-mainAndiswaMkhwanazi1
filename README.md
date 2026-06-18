@@ -168,7 +168,7 @@ text
 ![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/ab109b44045d98d887689278263d7fe8cc907ec0/Assets/Tablet%20Home.png)
 
 ### Mobile View
-![image alt]()
+![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/ee039327c19301ada375c3699902e3b347525a1c/Assets/Mobile%20About.png)
 
 
 ## References
