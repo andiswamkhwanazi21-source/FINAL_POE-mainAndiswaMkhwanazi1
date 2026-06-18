@@ -1,0 +1,235 @@
+/* Base styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  background-color: #f4f4f4; /* neutral background */
+  color: #222;
+}
+
+/* Header */
+header {
+  background: #003366; /* soft blue */
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Navigation */
+nav {
+  background: #003366;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-weight: bold;
+}
+
+nav a:hover,
+nav a:focus {
+  color: yellow; /* warm accent */
+  text-decoration: underline;
+}
+
+/* Main content */
+main {
+  padding: 2rem;
+}
+
+/* Headings */
+h1, h2 {
+  color: #003366;
+}
+
+/* Footer */
+footer {
+  background: #003366;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+/* Forms */
+form {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+label {
+  font-weight: bold;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+input[type="submit"] {
+  background: #003366;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background: #0055aa;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  nav a {
+    display: block;
+    margin: 0.5rem 0;
+  }
+
+  main {
+    padding: 1rem;
+  }
+}
+/* Image styling */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  margin: 1rem 0;
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.03);
+}
+
+/* Gallery layout */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.gallery img {
+  width: 300px;
+  height: auto;
+  object-fit: cover;
+}
+/* Base styles (desktop-first) */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  padding: 1rem;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.gallery img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease;
+}
+
+.gallery img:hover {
+  transform: scale(1.03);
+}
+
+/* 📱 For tablets (screen width up to 768px) */
+@media (max-width: 768px) {
+  nav {
+    display: block;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .gallery img {
+    max-width: 45%;
+  }
+}
+
+/* 📱 For phones (screen width up to 480px) */
+@media (max-width: 480px) {
+  nav {
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .gallery img {
+    max-width: 100%;
+  }
+  body {
+    font-size: 16px; /* keep text readable on small screens */
+  }
+}
+/* Base navigation link style */
+nav a {
+  color: #ffffff;          /* white text so it’s always visible */
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+/* Hover effect */
+nav a:hover {
+  background-color: #0055aa; /* lighter blue background */
+  color: #ffcc00;            /* gold text on hover */
+  border-radius: 4px;
+}
+
+/* Focus effect (keyboard navigation) */
+nav a:focus {
+  outline: 2px solid #ffcc00; /* gold outline for accessibility */
+  outline-offset: 2px;
+}
+
+/* Base button style */
+button, .cta-button, a[href*="booking.html"] {
+  background-color: #003366; /* deep blue */
+  color: #ffffff;
+  padding: 0.7rem 1.2rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+/* Hover effect */
+button:hover, .cta-button:hover, a[href*="booking.html"]:hover {
+  background-color: #0055aa; /* lighter blue */
+  transform: scale(1.05);    /* subtle zoom */
+}
+
+/* Focus effect */
+button:focus, .cta-button:focus, a[href*="booking.html"]:focus {
+  outline: 2px solid #ffcc00; /* gold outline */
+  outline-offset: 3px;
+}
