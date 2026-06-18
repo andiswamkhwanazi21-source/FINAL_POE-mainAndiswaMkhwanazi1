@@ -85,7 +85,35 @@ text
 - Content plan: Organisation overview, mission, vision, values, rooms, facilities, pricing, enquiry/contact forms.  
 - Sources: Local Bloemfontein landmarks (Naval Hill, Loch Logan, Stadium, Museum).  
 - Legal asset sourcing: Free-to-use images, original text, and references.  
-- Intended audience: Students, workers, and families seeking affordable housing.  
+- Intended audience: Students, workers, and families seeking affordable housing.
+
+- When I began working on my POE project, I knew that simply building a website wasn’t enough - it needed to feel authentic, grounded in real places, and supported by credible references. To achieve this, I explored a range of sources that guided both the content and technical aspects of Lusanda Rentals. 
+
+## Local Landmarks and Context 
+
+I started by looking at Bloemfontein’s landmarks. The Naval Hill article on destepti.ro gave me cultural and historical background that helped me situate Lusanda Rentals in a recognizable local setting. Similarly, the Getty Images aerial view of Toyota Stadium provided a visual anchor, reinforcing the sense of place. To highlight nearby attractions, I used getaway.co.za’s feature on South African museums, which allowed me to connect accommodation with cultural experiences -showing guests that Lusanda Rentals is part of a wider community. 
+
+## Accommodation and Interior Inspiration 
+
+Next, I focused on the rooms themselves. The Ensuite Bathroom Overview from fity.club helped me describe modern bathroom layouts realistically. Kangaroom.com’s flatshare listings gave me practical details about shared living, which I adapted for the double room description. For the triple room, I drew inspiration from *Tripadvisor rental images, ensuring my content reflected real multi‑occupancy spaces. Even *Pinterest’s small en suite conversions influenced how I presented compact but comfortable single rooms - proving that even small spaces can feel welcoming. 
+
+## Technical and Development Resources 
+
+On the technical side, W3Schools tutorials were invaluable for structuring semantic HTML, forms, and navigation correctly. They ensured my code met the autograding requirements. Whenever I ran into coding issues, I turned to Stack Overflow, where community discussions helped me troubleshoot problems like form validation and linking pages properly. 
+
+## Research Process and Navigation 
+
+## My research process followed a clear path: 
+
+I began with local context to root the project in Bloemfontein.  
+
+Then I moved to accommodation references, replacing placeholders with authentic descriptions.  
+
+I added visual inspiration from Getty, Pinterest, and Tripadvisor to make the site feel real.  
+
+Finally, I relied on technical resources to ensure the site was functional, accessible, and SEO‑ready. 
+
+ 
 
 ### Timeline and Milestones
 | Milestone | Planned Date | Status |
