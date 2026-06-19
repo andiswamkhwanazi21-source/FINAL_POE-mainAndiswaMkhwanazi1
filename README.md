@@ -256,13 +256,13 @@ Added new URLs to sitemap.xml for improved SEO coverage.
 
 ## Screenshots
 ### Desktop View
-![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/f4d579a528bbc20292c6a9657f0f2361a1599ffe/Assets/Desktop%20Home.png)
+![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/52c7bb8efb605c65f559252c7107a05e9df7afa7/Assets/desktop_asset.png)
 
 ### Tablet View
-![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/ab109b44045d98d887689278263d7fe8cc907ec0/Assets/Tablet%20Home.png)
+![image alt]()
 
 ### Mobile View
-![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/ee039327c19301ada375c3699902e3b347525a1c/Assets/Mobile%20About.png)
+![image alt]()
 
 ### Wireframe 
 ![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/e5f21fffa20ba7a4bfc6edb4e283697343dbda13/images/wireframe.jpg)
