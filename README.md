@@ -259,7 +259,7 @@ Added new URLs to sitemap.xml for improved SEO coverage.
 ![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/52c7bb8efb605c65f559252c7107a05e9df7afa7/Assets/desktop_asset.png)
 
 ### Tablet View
-![image alt]()
+![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/b1ac96d6d452f9ecdd61abf21ec828a28dac181a/Assets/tablet_asset.jpeg)
 
 ### Mobile View
 ![image alt]()
