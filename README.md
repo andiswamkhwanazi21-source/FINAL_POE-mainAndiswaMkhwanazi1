@@ -4,7 +4,7 @@
 - *Module:* Web Development (Introduction) - WEDE5020  
 - *Lecturer:* [Thabo Mofokeng]  
 - *Selected Organisation:* Lusanda Rentals  
-- *Repository URL:* [Lusanda Rentala Repository](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1.git)  
+- *Repository URL:* [Lusanda Rentala Repository]()  
 - *Deployed Website URL:* [Lusanda Rentals Live Site](https://andiswamkhwanazi21-source.github.io/FINAL_POE-mainAndiswaMkhwanazi1/)  
 
 
@@ -262,7 +262,7 @@ Added new URLs to sitemap.xml for improved SEO coverage.
 ![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/b1ac96d6d452f9ecdd61abf21ec828a28dac181a/Assets/tablet_asset.jpeg)
 
 ### Mobile View
-![image alt]()
+![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/d51cf91dc11d5d8cf67052cbc112a49169d0bbca/Assets/mobile_asset.jpeg)
 
 ### Wireframe 
 ![image alt](https://github.com/andiswamkhwanazi21-source/FINAL_POE-mainAndiswaMkhwanazi1/blob/e5f21fffa20ba7a4bfc6edb4e283697343dbda13/images/wireframe.jpg)
